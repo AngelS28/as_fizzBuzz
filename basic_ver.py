@@ -22,4 +22,5 @@ def fizzbuzz_basic():
 
 # Main function call
 if __name__ == "__main__":
+    # Call the fizzbuzz function
     fizzbuzz_basic()
