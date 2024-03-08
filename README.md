@@ -1,5 +1,5 @@
-# as_fizzBuzz
+# My FizzBuzz
 
 ## This is the introduction page for my FizzBuzz.
 
-### There're three different versions of the game: Basic, efficient and readable. 
+### There are three different versions of the game: Basic, efficient, and readable. 
